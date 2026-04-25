@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+google-generativeai
+sentence-transformers
+python-dotenv
+SQLAlchemy
+databases
+PyMuPDF
+python-multipart
+torch --index-url https://download.pytorch.org/whl/cpu
